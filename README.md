@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Spoiled blueberry
+- 👋 Hi, I’m ice blueberry
 - 🌱 I’m currently learning R,python,C,maybe a little Matlab.
 -  If you have any good study suggestions, please feel free to leave me a message.
 <!---
